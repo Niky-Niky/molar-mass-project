@@ -1,0 +1,54 @@
+{
+    "elements": [
+    {
+        "id": 1,
+        "name": "Hydrogen",
+        "mass": 1.0079
+    },
+    {
+        "id": 2,
+        "name": "Helium",
+        "mass": 4.0026
+    },
+    {
+        "id": 3,
+        "name": "Lithium",
+        "mass": 6.941
+    },
+    {
+        "id": 4,
+        "name": "Beryllium",
+        "mass": 9.012
+    },
+    {
+        "id": 5,
+        "name": "Bohrium",
+        "mass": 10.811
+    },
+    {
+        "id": 6,
+        "name": "Carbon",
+        "mass": 12.011
+    },
+    {
+        "id": 7,
+        "name": "Nitrogen",
+        "mass": 14.007
+    },
+    {
+        "id": 8,
+        "name": "Oxygen",
+        "mass": 15.999
+    },
+    {
+        "id": 9,
+        "name": "Fluorine",
+        "mass": 18.998
+    },
+    {
+        "id": 10,
+        "name": "Neon",
+        "mass": 20.18
+    }
+]
+}
